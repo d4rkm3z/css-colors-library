@@ -1,2 +1,2 @@
 # css-colors-library
-JSON file with css colors
+js file with human to css code colors
